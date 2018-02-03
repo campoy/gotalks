@@ -398,7 +398,7 @@ Compiling the standard library is *10%*faster*!
 * A couple more changes too
 
 .image img/changes.png _ 1000
-.caption [[https://beta.golang.org/doc/go1.10][Go 1.8 release notes (DRAFT)]]
+.caption [[https://beta.golang.org/doc/go1.10][Go 1.10 release notes (DRAFT)]]
 
 * Changes To The Community
 
