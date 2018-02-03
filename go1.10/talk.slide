@@ -5,7 +5,11 @@ Francesc Campoy
 VP of Developer Relations at source{d}
 @francesc
 campoy@golang.org
-sourced.tech
+https://sourced.tech
+
+* Do you prefer PDF?
+
+Just go [speakerdeck](https://speakerdeck.com/campoy/the-state-of-go-1-dot-10)!gi
 
 * Time flies
 
@@ -51,12 +55,14 @@ Changes since Go 1.9:
 * Changes To The Language
 
 .image img/nothing.jpg _ 900
+.caption [[http://ukrokuchannels.blogspot.be/2013/11/roku-uk-channel-store-weekly-roundup-35.html][source]]
 
 * Ports
 
 * New Ports
 
 .image img/nothing2.jpg _ 1000
+.caption [[https://timesofindia.indiatimes.com/world/rest-of-world/snow-in-the-sahara-desert-it-happened-this-week-in-ain-sefra-algeria/articleshow/56114067.cms][source]]
 
 * Notes On Existing Ports
 
@@ -326,7 +332,8 @@ After running all the benchmakrks on the standard library on go1.9.3 vs go1.10rc
 
     $ benchstat go1.9.txt go1.10.txt  | grep -v "\~"
 
-.image img/movealong.jpg
+.image img/movealong.jpg _ 550
+.caption [[http://memes.com/img/894487][source]]
 
 * Compiler Performance
 
