@@ -250,7 +250,7 @@ There could be a better and simpler way to do this.
 
 .play -edit strings/strings.go /var b/,/b.String/
 
-This uses reflection to avoid copies in the creation of strings.
+This uses `unsafe` to avoid copies in the creation of strings.
 
 * strings.Builder 👍
 
